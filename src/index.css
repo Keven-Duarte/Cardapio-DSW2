@@ -1,0 +1,12 @@
+@import 'tailwindcss';
+
+@theme {
+	--font-display: 'Gabarito', sans-serif;
+	--font-sans: 'Karla', sans-serif;
+
+	--color-seda-amendoa: #d5bdaf
+	--color-creme: #e3d5ca
+	--color-linho: #f5ebe0
+	--color-osso: #d6ccc2
+	--color-pergaminho: #edede9
+}
